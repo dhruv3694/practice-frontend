@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h2{
+    background: darkgray;
+    color:white;
+    margin-left: 40px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    margin-right: 40px;
+}
+p{
+    background: darkgoldenrod;
+    margin-left: auto ;
+    padding-left: 55px;
+    padding-top: 55px;
+    border:4px dashed blue;
+}
+p:hover{
+    background:black;
+    color: white;
+    border-radius:20px;
+    font-size: 30px;
+    cursor: pointer;
+}
