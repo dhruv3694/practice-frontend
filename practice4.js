@@ -12,3 +12,10 @@ console.log(abc);
 abc.textContent="hello world";
 abc.style.color="black";
 abc.style.backgroundColor="yellow";
+
+function hi(){
+    alert("hi");
+    console.log("hi");
+}
+
+hi();
