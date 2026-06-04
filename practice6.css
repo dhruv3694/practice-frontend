@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to left , red,blue,green);
+    text-align: center;
+}
+h1{
+    color:antiquewhite;
+}
+div{
+    height: 200px;
+    width: 200px;
+    margin:auto;
+    background: green;
+    border-radius: 50%;
+}
+
+button{
+    margin-top: 20px;
+    width: 100px;
+    height:26px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: black;
+    color:yellow;
+    transition: 1s;
+}
+
+button:hover{
+    color:white;
+    background:darkblue;
+    cursor:pointer;
+}
